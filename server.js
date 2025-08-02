@@ -39,7 +39,8 @@ const PORT = process.env.PORT || 5000;
 
 
 const allowedOrigins = [
-  "https://datingcollege-u9i1.vercel.app",  // ✅ for Vercel frontend
+  "https://datingcollege-u9i1.vercel.app",
+  "https://datingcollege-one.vercel.app",// ✅ for Vercel frontend
   'http://localhost:5173'                   // ✅ for local dev
 ];
 
